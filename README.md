@@ -33,7 +33,7 @@ Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Ac
 * 🌱 **Actualmente estoy aprendiendo:** Arquitectura de Software, Django Avanzado y Patrones de Diseño.
 * 👯 **Busco colaborar en:** Proyectos Open Source relacionados con herramientas de desarrollo o automatización.
 * ✔ **Pregúntame sobre:** Python, Django, lógica de programación y desarrollo Backend.
-* 💜 **Fuera del código:** Me apasionan las **Finanzas Personales**, 🎮 los videojuegos de estrategia, 🎵 escuchar música y leer sobre tecnología.
+* 💜 **Fuera del código:** Me apasionan las **Finanzas Personales**, 🎵 escuchar música y leer sobre tecnología.
 * 📫 **Contáctame en:** [josueiturriaga.work@gmail.com](mailto:josueiturriaga.work@gmail.com)
 
 <br>
