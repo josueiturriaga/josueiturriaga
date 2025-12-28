@@ -16,7 +16,7 @@
   <a href="mailto:josueiturriaga.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://5.dec.cl">
+  <a href="https://www.credly.com/users/josue-iturriaga">
     <img src="https://img.shields.io/badge/Certificado_INACAP-181717?style=for-the-badge&logo=school&logoColor=white"/>
   </a>
 
