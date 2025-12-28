@@ -28,12 +28,12 @@
 
 Soy estudiante de **Ingeniería en Informática**, cursando actualmente mi carrera en **INACAP**. Estoy expandiendo mis conocimientos tanto en el desarrollo Front-end como en el Back-end, con un enfoque especial en el ecosistema de **Python**.
 
-Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Actualmente trabajo en proyectos personales que combinan tecnología y finanzas, buscando siempre la optimización y las buenas prácticas de código.
+Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Actualmente trabajo en proyectos personales que combinan tecnología y datos, buscando siempre la optimización y las buenas prácticas de código.
 
 * 🌱 **Actualmente estoy aprendiendo:** Arquitectura de Software, Django Avanzado y Patrones de Diseño.
-* 👯 **Busco colaborar en:** Proyectos Open Source relacionados con herramientas de desarrollo o finanzas.
-* ✔ **Pregúntame sobre:** Python, lógica de programación o inversiones básicas (ETFs).
-* 💜 **Fuera del código:** Me apasionan las **Finanzas Personales**, 🎮 los videojuegos de estrategia, 🎵 escuchar música y automatizar tareas diarias.
+* 👯 **Busco colaborar en:** Proyectos Open Source relacionados con herramientas de desarrollo o automatización.
+* ✔ **Pregúntame sobre:** Python, Django, lógica de programación y desarrollo Backend.
+* 💜 **Fuera del código:** Me apasionan las **Finanzas Personales**, 🎮 los videojuegos de estrategia, 🎵 escuchar música y leer sobre tecnología.
 * 📫 **Contáctame en:** [josueiturriaga.work@gmail.com](mailto:josueiturriaga.work@gmail.com)
 
 <br>
