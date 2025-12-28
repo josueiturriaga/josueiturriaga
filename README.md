@@ -44,3 +44,20 @@ Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Ac
 </div>
 
 <br>
+
+
+
+
+
+
+<br>
+
+### 🏆 Certificaciones & Credenciales
+
+| Certificación | Emisor | Año |
+| :--- | :---: | :---: |
+| 🎓 **Desarrollador Full Stack** | INACAP | 2024 |
+| 🐍 **Python Programming** | Codefinity | 2025 |
+| ☁️ **Cloud Computing Fundamentals** | INACAP / Cisco | 2024 |
+
+<br>
