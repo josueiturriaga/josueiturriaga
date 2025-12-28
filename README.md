@@ -56,8 +56,10 @@ Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Ac
 
 | Certificación | Emisor | Año |
 | :--- | :---: | :---: |
-| 🎓 **Desarrollador Full Stack** | INACAP | 2024 |
-| 🐍 **Python Programming** | Codefinity | 2025 |
-| ☁️ **Cloud Computing Fundamentals** | INACAP / Cisco | 2024 |
+| 🛡️ **Junior Cybersecurity Analyst** | Cisco Networking Academy | 2025 |
+| 🎓 **Desarrollador Full Stack** | INACAP / Bootcamps | 2025 |
+| 🐍 **PCAP – Programming Essentials in Python** | Cisco / OpenEDG | 2024 |
+| ☁️ **Cloud Computing Fundamentals** | AWS / INACAP | 2024 |
+| 🔒 **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
 
 <br>
