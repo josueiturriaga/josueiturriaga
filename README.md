@@ -5,7 +5,7 @@
   <h1>¡Hola! Soy Josué Iturriaga</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=33CC33&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Ingeniero+en+Formaci%C3%B3n;Python+%26+Django+Lover;Inversionista+en+S%26P+500" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=33CC33&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Ingeniero+en+Formaci%C3%B3n;Python+%26+Django+Lover;Entusiasta+de+la+IA" alt="Typing SVG" />
   </a>
 
   <br>
@@ -25,11 +25,11 @@
 <br>
 
 ### 👨‍💻 Sobre mí
-Soy estudiante de Ingeniería en Informática en **INACAP** 🇨🇱. Me especializo en crear aplicaciones web robustas y escalables, y actualmente estoy construyendo herramientas financieras con IA.
+Soy estudiante de Ingeniería en Informática en **INACAP** 🇨🇱. Me especializo en crear aplicaciones web robustas y escalables, enfocándome siempre en la calidad del código y la experiencia de usuario.
 
-- 🔭 **Trabajando en:** Dashboard de Inversiones (Django + Chart.js).
-- 🌱 **Aprendiendo:** Arquitectura de Software y Estrategias de Mercado.
-- ⚡ **Dato:** Mi portafolio financiero es 70% S&P500 / 30% NVIDIA.
+- 🔭 **Trabajando en:** Un Dashboard Web Personalizado (Django + Chart.js).
+- 🌱 **Aprendiendo:** Arquitectura de Software y Buenas Prácticas (Clean Code).
+- ⚡ **Dato:** Me obsesiona encontrar la forma más eficiente de resolver un problema con Python.
 
 <br>
 
