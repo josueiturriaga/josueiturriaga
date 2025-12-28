@@ -56,10 +56,10 @@ Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Ac
 
 | Certificación | Emisor | Año |
 | :--- | :---: | :---: |
-| 🛡️ **Junior Cybersecurity Analyst** | Cisco Networking Academy | 2025 |
-| 🎓 **Desarrollador Full Stack** | INACAP / Bootcamps | 2025 |
-| 🐍 **PCAP – Programming Essentials in Python** | Cisco / OpenEDG | 2024 |
-| ☁️ **Cloud Computing Fundamentals** | AWS / INACAP | 2024 |
-| 🔒 **Introduction to Cybersecurity** | Cisco Networking Academy | 2024 |
+| 🛡️ **Junior Cybersecurity Analyst Career Path** | Cisco Networking Academy | 2025 |
+| 🎓 **Desarrollador Full Stack** | INACAP (144 Horas) | 2025 |
+| 💻 **Desarrollo de Aplicaciones Iniciales** | INACAP (162 Horas) | 2025 |
+| 🔒 **Fundamentos de Ciberseguridad** | Cisco / INACAP | 2025 |
+| 📡 **Introduction to IoT** | Cisco Networking Academy | 2025 |
 
 <br>
