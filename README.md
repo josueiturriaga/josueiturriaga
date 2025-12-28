@@ -24,12 +24,17 @@
 
 <br>
 
-### 👨‍💻 Sobre mí
-Soy estudiante de Ingeniería en Informática en **INACAP** 🇨🇱. Me especializo en crear aplicaciones web robustas y escalables, enfocándome siempre en la calidad del código y la experiencia de usuario.
+### 🌟 Sobre mí
 
-- 🔭 **Trabajando en:** Un Dashboard Web Personalizado (Django + Chart.js).
-- 🌱 **Aprendiendo:** Arquitectura de Software y Buenas Prácticas (Clean Code).
-- ⚡ **Dato:** Me obsesiona encontrar la forma más eficiente de resolver un problema con Python.
+Soy estudiante de **Ingeniería en Informática**, cursando actualmente mi carrera en **INACAP**. Estoy expandiendo mis conocimientos tanto en el desarrollo Front-end como en el Back-end, con un enfoque especial en el ecosistema de **Python**.
+
+Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Actualmente trabajo en proyectos personales que combinan tecnología y finanzas, buscando siempre la optimización y las buenas prácticas de código.
+
+* 🌱 **Actualmente estoy aprendiendo:** Arquitectura de Software, Django Avanzado y Patrones de Diseño.
+* 👯 **Busco colaborar en:** Proyectos Open Source relacionados con herramientas de desarrollo o finanzas.
+* ✔ **Pregúntame sobre:** Python, lógica de programación o inversiones básicas (ETFs).
+* 💜 **Fuera del código:** Me apasionan las **Finanzas Personales**, 🎮 los videojuegos de estrategia, 🎵 escuchar música y automatizar tareas diarias.
+* 📫 **Contáctame en:** [josueiturriaga.work@gmail.com](mailto:josueiturriaga.work@gmail.com)
 
 <br>
 
