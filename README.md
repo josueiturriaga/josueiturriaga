@@ -39,16 +39,3 @@ Soy estudiante de Ingeniería en Informática en **INACAP** 🇨🇱. Me especia
 </div>
 
 <br>
-
-### 📈 Mis Estadísticas en GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josueiturriaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueiturriaga&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josueiturriaga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
