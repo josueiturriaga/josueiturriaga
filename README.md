@@ -1,17 +1,6 @@
 ### Hola, soy Josué Iturriaga 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/josue-iturriaga">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:josueiturriaga.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://5.dec.cl">
-    <img src="https://img.shields.io/badge/Certificado-INACAP-C8102E?style=for-the-badge&logo=school&logoColor=white" alt="Certificado Badge"/>
-  </a>
-</div>
-<br>
+
 
 
 Soy estudiante de Ingeniería en Informática y Desarrollador Full Stack en Chile 🇨🇱.
