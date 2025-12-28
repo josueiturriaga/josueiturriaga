@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/josue-iturriaga">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:josueiturriaga.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://5.dec.cl">
-    <img src="https://img.shields.io/badge/Certificado-INACAP-C8102E?style=for-the-badge&logo=school&logoColor=white" alt="Certificado Badge"/>
+    <img src="https://img.shields.io/badge/Certificado_INACAP-181717?style=for-the-badge&logo=school&logoColor=white" alt="Certificado Badge"/>
   </a>
 </div>
 <br>
