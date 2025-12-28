@@ -35,7 +35,7 @@ Soy estudiante de Ingeniería en Informática en **INACAP** 🇨🇱. Me especia
 
 ### 🛠 Tech Stack (Mis Herramientas)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode,postgres,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,postgres,sqlite&theme=dark" />
 </div>
 
 <br>
