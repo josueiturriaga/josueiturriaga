@@ -13,11 +13,13 @@
   <a href="https://www.linkedin.com/in/josue-iturriaga">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:josueiturriaga.work@gmail.com">
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=josueiturriaga.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.credly.com/users/josue-iturriaga">
-    <img src="https://img.shields.io/badge/Certificado_INACAP-181717?style=for-the-badge&logo=school&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Credly_Certificados-181717?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 
 </div>
@@ -34,7 +36,7 @@ Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Ac
 * 👯 **Busco colaborar en:** Proyectos Open Source relacionados con herramientas de desarrollo o automatización.
 * ✔ **Pregúntame sobre:** Python, Django, lógica de programación y desarrollo Backend.
 * 💜 **Fuera del código:** Me apasionan las **Finanzas Personales**, 🎵 escuchar música y leer sobre tecnología.
-* 📫 **Contáctame en:** [josueiturriaga.work@gmail.com](mailto:josueiturriaga.work@gmail.com)
+* 📫 **Contáctame en:** [josueiturriaga.work@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=josueiturriaga.work@gmail.com)
 
 <br>
 
@@ -42,13 +44,6 @@ Me encanta aprender y construir soluciones nuevas, productivas e innovadoras. Ac
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,postgres,sqlite&theme=dark" />
 </div>
-
-<br>
-
-
-
-
-
 
 <br>
 
